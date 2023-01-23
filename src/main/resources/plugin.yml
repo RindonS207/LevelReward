@@ -1,0 +1,11 @@
+name: LevelReward
+version: ${project.version}
+main: rindong.plugin.levelreward.levelreward.LevelReward
+authors: [Rindong]
+commands:
+  levelreward:
+    description: 主指令
+permissions:
+  levelreward.reload:
+    description: 重载插件
+    default: op

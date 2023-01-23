@@ -1,0 +1,29 @@
+#%player_name%表示玩家名
+#1-100级
+L1:
+  - 'eco give %player_name% 100'
+  - 'say %player_name% 领取了巴拉巴拉'
+#101-350
+L2:
+  - 'eco give %player_name% 100'
+  - 'say %player_name% 领取了巴拉巴拉'
+#351-700
+L3:
+  - 'eco give %player_name% 100'
+  - 'say %player_name% 领取了巴拉巴拉'
+#701-1000
+L4:
+  - 'eco give %player_name% 100'
+  - 'say %player_name% 领取了巴拉巴拉'
+#1001-2999
+L5:
+  - 'eco give %player_name% 100'
+  - 'say %player_name% 领取了巴拉巴拉'
+#3000-5999
+L6:
+  - 'eco give %player_name% 100'
+  - 'say %player_name% 领取了巴拉巴拉'
+#6000-20000
+L7:
+  - 'eco give %player_name% 100'
+  - 'say %player_name% 领取了巴拉巴拉'
